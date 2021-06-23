@@ -2,7 +2,8 @@
   "dependencies": {
     "@babel/preset-env": "^7.14.7",
     "babel-node": "^0.0.1-security",
-    "global": "^4.4.0"
+    "global": "^4.4.0",
+    "tailwindcss": "^2.2.3"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
